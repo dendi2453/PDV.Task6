@@ -1,0 +1,117 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\1.0.jpg" />
+    <None Remove="Images\10.0.jpg" />
+    <None Remove="Images\11.0.jpg" />
+    <None Remove="Images\12.0.jpg" />
+    <None Remove="Images\13.0.jpg" />
+    <None Remove="Images\2.0.jpg" />
+    <None Remove="Images\2.jpg" />
+    <None Remove="Images\3.0.jpg" />
+    <None Remove="Images\4.0.jpg" />
+    <None Remove="Images\5.0.jpg" />
+    <None Remove="Images\6.0.jpg" />
+    <None Remove="Images\7.0.jpg" />
+    <None Remove="Images\8.0.jpg" />
+    <None Remove="Images\9.0.jpg" />
+    <None Remove="Images\cap.jpg" />
+    <None Remove="Images\cap1.jpg" />
+    <None Remove="Images\gal.png" />
+    <None Remove="Images\gall.jpg" />
+    <None Remove="Images\get.jpg" />
+    <None Remove="Images\gett.jpg" />
+    <None Remove="Images\git.png" />
+    <None Remove="Images\gitt.jpg" />
+    <None Remove="Images\gos.jpg" />
+    <None Remove="Images\goss.jpg" />
+    <None Remove="Images\kul.png" />
+    <None Remove="Images\kull.jpg" />
+    <None Remove="Images\mail.jpg" />
+    <None Remove="Images\mml.jpg" />
+    <None Remove="Images\mts.png" />
+    <None Remove="Images\mtss.jpg" />
+    <None Remove="Images\op.png" />
+    <None Remove="Images\osn1.jpg" />
+    <None Remove="Images\sber.jpg" />
+    <None Remove="Images\sber1.jpg" />
+    <None Remove="Images\sber2.jpg" />
+    <None Remove="Images\telega.jpg" />
+    <None Remove="Images\tik.jpg" />
+    <None Remove="Images\tn.jpg" />
+    <None Remove="Images\tt.jpg" />
+    <None Remove="Images\ttt.jpg" />
+    <None Remove="Images\vk.jpg" />
+    <None Remove="Images\vkk.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\10.0.jpg" />
+    <Resource Include="Images\2.0.jpg" />
+    <Resource Include="Images\kull.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\gett.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\3.0.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\11.0.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.1.2" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.8.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\1.0.jpg" />
+    <Resource Include="Images\12.0.jpg" />
+    <Resource Include="Images\13.0.jpg" />
+    <Resource Include="Images\2.jpg" />
+    <Resource Include="Images\4.0.jpg" />
+    <Resource Include="Images\5.0.jpg" />
+    <Resource Include="Images\6.0.jpg" />
+    <Resource Include="Images\7.0.jpg" />
+    <Resource Include="Images\8.0.jpg" />
+    <Resource Include="Images\9.0.jpg" />
+    <Resource Include="Images\cap.jpg" />
+    <Resource Include="Images\cap1.jpg" />
+    <Resource Include="Images\gal.png" />
+    <Resource Include="Images\gall.jpg" />
+    <Resource Include="Images\get.jpg" />
+    <Resource Include="Images\git.png" />
+    <Resource Include="Images\gitt.jpg" />
+    <Resource Include="Images\gos.jpg" />
+    <Resource Include="Images\goss.jpg" />
+    <Resource Include="Images\kul.png" />
+    <Resource Include="Images\mail.jpg" />
+    <Resource Include="Images\mml.jpg" />
+    <Resource Include="Images\mts.png" />
+    <Resource Include="Images\mtss.jpg" />
+    <Resource Include="Images\op.png" />
+    <Resource Include="Images\osn1.jpg" />
+    <Resource Include="Images\sber.jpg" />
+    <Resource Include="Images\sber1.jpg" />
+    <Resource Include="Images\sber2.jpg" />
+    <Resource Include="Images\telega.jpg" />
+    <Resource Include="Images\tik.jpg" />
+    <Resource Include="Images\tn.jpg" />
+    <Resource Include="Images\tt.jpg" />
+    <Resource Include="Images\ttt.jpg" />
+    <Resource Include="Images\vk.jpg" />
+    <Resource Include="Images\vkk.jpg" />
+  </ItemGroup>
+
+</Project>
